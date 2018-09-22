@@ -4,12 +4,7 @@ html {
 }
 
 .font-ja {
-  font-family:  "Noto Sans Japanese";
-}
-
-.btn-ghost {
-  border-top: 2px solid #e2e2e2;
-  color: #0084a6;
+  font-family: "Noto Sans Japanese";
 }
 
 i,
@@ -26,12 +21,16 @@ li a {
 li a:hover {
   color: #005e76;
   border-bottom: 2px solid #0084a6;
-
 }
 
 article {
   border-top: 2px solid #e2e2e2;
   border-bottom: 2px solid #e2e2e2;
+}
+
+.btn-ghost {
+  border-top: 2px solid #e2e2e2;
+  color: #0084a6;
 }
 
 .slide a:hover {
@@ -50,6 +49,7 @@ footer {
 }
 
 @media only screen and (min-width: 60em) {
+
   nav ul {
     text-align: right;
   }
