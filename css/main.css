@@ -4,7 +4,7 @@ html {
 }
 
 .font-ja {
-  font-family: "Noto Sans Japanese";
+  font-family: "Noto Sans Japanese", serif;
 }
 
 i,
@@ -29,8 +29,8 @@ article {
 }
 
 .btn-ghost {
-  border-top: 2px solid #e2e2e2;
-  color: #0084a6;
+  border: 2px solid #8bc9d9;
+  color: #005e76;
 }
 
 .slide a:hover {
